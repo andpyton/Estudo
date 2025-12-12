@@ -1,3 +1,3 @@
 # Studying lists
 
-# This repository contains list study codes generated without any use of AI.
+# This repository contains study code written without any use of AI.
